@@ -1,0 +1,28 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+.america{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.hero-section{
+    height: 100vh;
+    background: url(img/avenger.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
+}
+.btn:hover{
+    background-color: #b30000;
+    color: #fff;
+    transform: scale(1.05);
+    transition: all 0.3 ease;
+}
+.nav-custom .nav-link:hover{
+    color: #f3f3f3;
+    transform: scale(1.05);
+    transition: all 0.3 ease;    
+
+}
